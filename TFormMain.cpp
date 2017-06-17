@@ -44,8 +44,6 @@ __fastcall TFormMain::TFormMain(TComponent* Owner)
 		catch (...)
 		{
 		}
-
-
 }
 //---------------------------------------------------------------------------
 void TFormMain::ValidatePixelScale()
