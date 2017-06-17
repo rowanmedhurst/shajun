@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">CPlusPlusBuilder.Personality</Option>
+			<Option Name="ProjectType">CppVCLApplication</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{5F68D6AE-33C9-46B1-8CAD-702AFAC12669}</Option>
+		</Option>
+	</PersonalityInfo>
+	<CPlusPlusBuilder.Personality>
+		<BCBPROJECT>
+      <project version="10.0">
+        <property category="build.config" name="active" value="0"/>
+        <property category="build.config" name="count" value="1"/>
+        <property category="build.config" name="excludedefaultforzero" value="0"/>
+        <property category="build.config.0" name="builddir" value="Debug"/>
+        <property category="build.config.0" name="key" value="Debug_Build"/>
+        <property category="build.config.0" name="name" value="Debug Build"/>
+        <property category="build.config.0" name="settings.win32b" value="default"/>
+        <property category="build.config.0" name="type" value="Toolset"/>
+        <property category="build.config.0" name="win32.win32b.builddir" value="Debug_Build"/>
+        <property category="build.config.1" name="key" value="Release_Build"/>
+        <property category="build.config.1" name="name" value="Release Build"/>
+        <property category="build.config.1" name="settings.win32b" value="default"/>
+        <property category="build.config.1" name="type" value="Toolset"/>
+        <property category="build.config.1" name="win32.win32b.builddir" value="Release_Build"/>
+        <property category="build.node" name="dontverifylibs" value="0"/>
+        <property category="build.node" name="libraries" value="vcl.lib rtl.lib"/>
+        <property category="build.node" name="name" value="Shajun.exe"/>
+        <property category="build.node" name="packages" value="rtl;vcl;vclx;bcbsmp;dbrtl;vcldb;bdertl;ibxpress;bcbie;vclie;inetdb;inet;vcldbx;bcboffice2k"/>
+        <property category="build.node" name="sparelibs" value="rtl.lib vcl.lib"/>
+        <property category="build.node" name="use_packages" value="0"/>
+        <property category="build.platform" name="active" value="win32"/>
+        <property category="build.platform" name="win32.Debug_Build.toolset" value="win32b"/>
+        <property category="build.platform" name="win32.Release_Build.toolset" value="win32b"/>
+        <property category="build.platform" name="win32.default" value="win32b"/>
+        <property category="build.platform" name="win32.enabled" value="1"/>
+        <property category="build.platform" name="win32.win32b.enabled" value="1"/>
+        <property category="win32.*.win32b.dcc32" name="param.filenames.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.listfile.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.objfile.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.xreffile.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.arg.1" value="_DEBUG"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.Od.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.k.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.r.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.v.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.vi.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.y.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.$D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.$O.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.arg.1" value="DEBUG"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.V.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.arg.1" value="$(BDS)\lib\debug"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.z.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.zd.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.zi.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.arg.1" value="NDEBUG"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.O2.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.k.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.r.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.vi.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.$D.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.$O.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.V.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.arg.1" value="$(BDS)\lib\release"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.z.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zd.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zi.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zn.enabled" value="1"/>
+        <optionset name="all_configurations">
+          <property category="node" name="displayname" value="All Configurations"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.1" value="cosf=(float)cos"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.2" value="sinf=(float)sin"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.3" value="acosf=(float)acos"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.4" value="asinf=(float)asin"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.5" value="tanf=(float)tan"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.6" value="atanf=(float)atan"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.7" value="sqrtf=(float)sqrt"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.arg.1" value="$(BDS)\lib\vcl100.csm"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.arg.merge" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Hc.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.1" value="C:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.2" value=".."/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.3" value="C:\DX9SDK\Include\"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.6" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.O2.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Ve.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Vx.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.X.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.b.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.k.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.arg.1" value="NO_STRICT"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.tW.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.tWM.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.vi.enabled" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.1" value="cosf=(float)cos"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.2" value="sinf=(float)sin"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.3" value="acosf=(float)acos"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.4" value="asinf=(float)asin"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.5" value="tanf=(float)tan"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.6" value="atanf=(float)atan"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.7" value="sqrtf=(float)sqrt"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.enabled" value="0"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.1" value="C:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.2" value=".."/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.3" value="C:\DX9SDK\Include\"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.6" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.merge" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.arg.1" value="Y-"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$D.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.$L.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.M.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.1" value=".\"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.2" value="$(BDS)\lib"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.3" value="$(BDS)\lib\obj"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="param.filenames.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.arg" value="&quot;&quot;"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.1" value="C:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.2" value=".."/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.3" value="C:\DX9SDK\Lib\borland\"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.4" value="$(BDS)\lib\obj"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.5" value="$(BDS)\lib"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.Tpe.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.aa.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.dynamicrtl.enabled" value="0"/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.arg.1" value="."/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.1" value="$(LIBRARIES)"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.2" value="import32.lib"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.3" value="cp32mt.lib"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.1" value="c0w32.obj"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.2" value="sysinit.obj"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.1" value="cosf=(float)cos"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.2" value="sinf=(float)sin"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.3" value="acosf=(float)acos"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.4" value="asinf=(float)asin"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.5" value="tanf=(float)tan"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.6" value="atanf=(float)atan"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.7" value="sqrtf=(float)sqrt"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.1" value="C:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.2" value=".."/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.3" value="C:\DX9SDK\Include\"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.6" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.w2.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.zn.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.listfile.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.objfile.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.xreffile.merge" value="1"/>
+        </optionset>
+      </project>
+      <FILELIST>
+        <FILE FILENAME="Shajun.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="Shajun" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="Shajun.res" CONTAINERID="ResTool" LOCALCOMMAND="" UNITNAME="Shajun" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="TFormMain.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="TFormMain" FORMNAME="FormMain" DESIGNCLASS=""/>
+        <FILE FILENAME="TForm3D.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="TForm3D" FORMNAME="Form3D" DESIGNCLASS=""/>
+        <FILE FILENAME="TFormAbout.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="TFormAbout" FORMNAME="FormAbout" DESIGNCLASS=""/>
+        <FILE FILENAME="ShajunMap.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShajunMap" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="ShajunPalette.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShajunPalette" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="ShajunUtil.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShajunUtil" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="Display.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="Display" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="C:\DX9SDK\Lib\x86\borland\d3d9.lib" CONTAINERID="LibTool" LOCALCOMMAND="" UNITNAME="d3d9" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="C:\DX9SDK\Lib\x86\borland\d3dx9.lib" CONTAINERID="LibTool" LOCALCOMMAND="" UNITNAME="d3dx9" FORMNAME="" DESIGNCLASS=""/>
+      </FILELIST>
+      <IDEOPTIONS>
+        <VersionInfo>
+          <VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+          <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+          <VersionInfo Name="MajorVer">1</VersionInfo>
+          <VersionInfo Name="MinorVer">0</VersionInfo>
+          <VersionInfo Name="Release">0</VersionInfo>
+          <VersionInfo Name="Build">0</VersionInfo>
+          <VersionInfo Name="Debug">False</VersionInfo>
+          <VersionInfo Name="PreRelease">False</VersionInfo>
+          <VersionInfo Name="Special">False</VersionInfo>
+          <VersionInfo Name="Private">False</VersionInfo>
+          <VersionInfo Name="DLL">False</VersionInfo>
+          <VersionInfo Name="Locale">2057</VersionInfo>
+          <VersionInfo Name="CodePage">1252</VersionInfo>
+        </VersionInfo>
+        <VersionInfoKeys>
+          <VersionInfoKeys Name="CompanyName"></VersionInfoKeys>
+          <VersionInfoKeys Name="FileDescription"></VersionInfoKeys>
+          <VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+          <VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+          <VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
+          <VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+          <VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys>
+          <VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+          <VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+          <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+        </VersionInfoKeys>
+        <HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Count">12</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item0">C:\Program Files\Borland\CBuilder5\Projects\;..;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item1">C:\Program Files\Borland\CBuilder5\Projects;..;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item2">..;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item3">..\;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item4">C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item5">..\;..;C:\Program Files\Borland\CBuilder5\Projects\;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item6">..;C:\Program Files\Borland\CBuilder5\Projects\;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item7">..\;C:\Program Files\Borland\CBuilder5\Projects\;..;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item8">C:\Program Files\Borland\CBuilder5\Projects;..\;..;C:\DX9SDK\Include\;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item9">..\;C:\DX9SDK\Include\;..;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item10">C:\DX9SDK\Include;..\;..;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item11">..\;..;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+        </HistoryLists_hlIncludePath>
+        <HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Count">12</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item0">C:\Program Files\Borland\CBuilder5\Projects\;..;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item1">C:\Program Files\Borland\CBuilder5\Projects;..;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item2">..;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item3">..\;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item4">C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item5">..\;..;C:\Program Files\Borland\CBuilder5\Projects\;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item6">..;C:\Program Files\Borland\CBuilder5\Projects\;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item7">..\;C:\Program Files\Borland\CBuilder5\Projects\;..;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item8">C:\Program Files\Borland\CBuilder5\Projects;..\;..;C:\DX9SDK\Lib\borland\;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item9">..\;C:\DX9SDK\Lib\borland\;..;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item10">C:\DX9SDK\Lib\borland;..\;..;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item11">..\;..;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+        </HistoryLists_hlLibraryPath>
+        <HistoryLists_hlDebugSourcePath>
+          <HistoryLists_hlDebugSourcePath Name="Count">1</HistoryLists_hlDebugSourcePath>
+          <HistoryLists_hlDebugSourcePath Name="Item0">$(BCB)\source\vcl</HistoryLists_hlDebugSourcePath>
+        </HistoryLists_hlDebugSourcePath>
+        <HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Count">3</HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Item0">cosf=(float)cos;sinf=(float)sin;acosf=(float)acos;asinf=(float)asin;tanf=(float)tan;atanf=(float)atan;sqrtf=(float)sqrt</HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Item1">cosf=(float)cos;sinf=(float)sin;acosf=(float)acos;asinf=(float)asin;tanf=(float)tan;atanf=(float)atan;sqrtf=(float)sqrt;_DEBUG</HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Item2">_DEBUG</HistoryLists_hlConditionals>
+        </HistoryLists_hlConditionals>
+        <Debugging>
+          <Debugging Name="DebugSourceDirs">$(BCB)\source\vcl</Debugging>
+        </Debugging>
+        <Parameters>
+          <Parameters Name="RunParams"></Parameters>
+          <Parameters Name="Launcher"></Parameters>
+          <Parameters Name="UseLauncher">False</Parameters>
+          <Parameters Name="DebugCWD"></Parameters>
+          <Parameters Name="HostApplication"></Parameters>
+          <Parameters Name="RemoteHost"></Parameters>
+          <Parameters Name="RemotePath"></Parameters>
+          <Parameters Name="RemoteParams"></Parameters>
+          <Parameters Name="RemoteLauncher"></Parameters>
+          <Parameters Name="UseRemoteLauncher">False</Parameters>
+          <Parameters Name="RemoteCWD"></Parameters>
+          <Parameters Name="RemoteDebug">False</Parameters>
+          <Parameters Name="Debug Symbols Search Path"></Parameters>
+          <Parameters Name="LoadAllSymbols">True</Parameters>
+          <Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+        </Parameters>
+        <Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclib100.bpl">Borland InterBase Express Components</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclIntraweb_80_100.bpl">Intraweb 8.0 Design Package for Borland Development Studio 2006</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclindy100.bpl">Internet Direct Version 9 (Indy) Property and Component Editors</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\bcbofficexp100.bpl">Borland C++Builder Office XP Servers Package</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dclbcbsmp100.bpl">Borland Sample Controls Design Time Package</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\bcbie100.bpl">Borland C++Builder Internet Explorer 5 Components Package</Excluded_Packages>
+          <Excluded_Packages Name="c:\program files\borland\bds\4.0\Bin\dcltee100.bpl">TeeChart Components</Excluded_Packages>
+        </Excluded_Packages>
+        <Linker>
+          <Linker Name="LibPrefix"></Linker>
+          <Linker Name="LibSuffix"></Linker>
+          <Linker Name="LibVersion"></Linker>
+        </Linker>
+      </IDEOPTIONS>
+    </BCBPROJECT>
+		<Source>
+			<Source Name="MainSource">Shajun.cpp</Source>
+		</Source>
+		<buildevents/>
+	</CPlusPlusBuilder.Personality>
+</BorlandProject>
